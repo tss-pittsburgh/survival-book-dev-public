@@ -1,6 +1,6 @@
 {
-  "name": "TSS-Pittsburgh 生存手冊",
-  "short_name": "TSS-Pittsburgh 生存手冊",
+  "name": "TSS-Pittsburgh 匹茲堡生存手冊",
+  "short_name": "TSS-Pittsburgh 匹茲堡生存手冊",
   "start_url": "/survival-book-dev-website/",
   "scope": "/survival-book-dev-website/",
   "display": "standalone",

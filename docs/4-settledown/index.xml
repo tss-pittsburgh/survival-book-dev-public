@@ -10,7 +10,7 @@ Postpaid 類似台灣的簽約方案。通常提供購買手機折扣、額外�
 熱點分享 Prepaid和Postpaid的基礎版吃到飽都不允熱點分享。 Postpaid的高階版吃到飽會提供一定流量內的熱點分享，超過降速。
 網速 Prepaid的任何方案和Postpaid的基礎版吃到飽都是低速版，即使用串流影音時網速限制在480p（約1.5Mbps）。 Postpaid的高階版吃到飽會提供720p以上（&amp;gt;2Mpbs）的網速。 由於Netflix這類會由網速調控畫質，因此如果特別在意高畫質的串流影音，須選擇高階版吃到飽。
 去優先度（Deprioritization） 當網路雍塞時（例如大型賽事、演唱會、大都會等人多地方），會暫時降低網速。 在網路雍塞時，Prepaid的所有方案和Postpaid的基礎版吃到飽通常順位較低。 Postpaid的高階版吃到飽在一定流量內保證優先度，使用超過一定流量時（通常為22GB或50GB），原本優先度就會被降低而導致網速下降。
-Throttling是發生在非吃到飽用為流量時，往速自動被降至2G（約128kbps）直至該帳單週期為止。與非吃到飽不同，吃到飽的降速僅發生在網速雍塞時。
+Throttling是發生在非吃到飽用為流量時，網速自動被降至2G（約128kbps）直至該帳單週期為止。與非吃到飽不同，吃到飽的降速僅發生在網速雍塞時。
 網路覆蓋 # 通常城市的網路覆蓋都沒什麼問題。但如果熱衷於跑國家公園或比較偏僻的地方，覆蓋率是很重要的因素。</description></item><item><title>銀行開戶</title><link>https://tss-pittsburgh.github.io/survival-book-dev-website/docs/4-settledown/4-bank/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/survival-book-dev-website/docs/4-settledown/4-bank/</guid><description>銀行開戶 # 楊博元協編 最後更新日期2020.09.15 由於疫情因素，目前需要線上或打電話到該分行與Banker預約開戶。
 帳戶種類介紹 # 所有帳戶都由兩組號碼構成：
 Routing Number：9位號碼，銀行代號，同一州的分行號碼一樣。 Account Number：10~12位號碼，個人的帳戶號碼。 美國帳戶主要可分為兩種：
